@@ -7,6 +7,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import r2_score
 import seaborn as sns
 
+
 save_model_directry = r'./models/'
 
 # Function to manage user input data
