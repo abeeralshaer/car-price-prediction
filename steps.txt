@@ -1,0 +1,10 @@
+Step 1)
+		uderstand the model behind the app and how it works. and how to using it using pytorch and
+		python
+Step 2)	
+		deploy the model on AWS using serverless architecture.
+		
+Step3) 
+		build the react interface using react interface to intract with the model
+Step 4) 
+		deploy the react apps
